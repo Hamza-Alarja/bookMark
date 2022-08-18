@@ -1,0 +1,21 @@
+body {
+  zoom: 85%;
+  background-image: linear-gradient(#eecda3, #ef629f);
+  font-family: "Cairo", sans-serif;
+}
+
+.pearnt {
+  background-color: rgba(83, 82, 82, 0.329) !important;
+  border-radius: 10px;
+}
+.table {
+  color: white;
+}
+.table thead {
+  color: rgb(0, 0, 0);
+}
+label {
+  color: #f6b4d0;
+  font-size: 17px;
+  font-weight: 600;
+}
